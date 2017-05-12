@@ -1,3 +1,5 @@
+All credits of https://github.com/buonaparte/BnpServiceDefinition
+
 BnpServiceDefinition
 ====================
 
